@@ -25,7 +25,5 @@ WebUI.setText(findTestObject('Object Repository/Page_Google/textarea_q'), 'HELLO
 
 WebUI.click(findTestObject('Object Repository/Page_Google/div_gws-output-pages-elements-homepage_addi_575398'))
 
-WebUI.click(findTestObject('Object Repository/Page_Google/input_btnK'))
-
 WebUI.closeBrowser()
 
